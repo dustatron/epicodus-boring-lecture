@@ -1,5 +1,15 @@
-h2.intro { 
+h1 {
+    text-align: center;
+    font-size: 65px;
+}
 
+h4 {
+    margin-left: 40%;
+    font-size: 30px;
+}
+
+h2.intro { 
+    font-size: 50px;
 }
 
 p.intro {
@@ -8,4 +18,12 @@ p.intro {
 
 img.intro {
     width: 450px;
+}
+
+.eagle {
+    height: 120px;
+}
+
+.grad-hat {
+    height: 120px;
 }
