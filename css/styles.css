@@ -24,3 +24,16 @@ h4 {
 .grad-hat {
     height: 120px;
 }
+
+p{
+    transition: all .3s;
+}
+
+.highlight {
+    border-top:10px ridge #54ce2e;
+    border-right:10px ridge #f0ff00;
+    border-bottom:10px ridge #00deff;
+    border-left:10px ridge #2eb9ce;
+    padding: 10px;
+    background-color: #f0ff00;
+}
